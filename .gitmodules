@@ -4,3 +4,6 @@
 [submodule "mylibgit"]
 	path = mylibgit
 	url = https://github.com/libgit2/libgit2
+[submodule "modules/asrar-mared"]
+	path = modules/asrar-mared
+	url = https://github.com/asrar-mared/asrar-mared.git
